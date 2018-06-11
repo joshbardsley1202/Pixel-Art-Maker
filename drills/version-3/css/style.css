@@ -1,0 +1,17 @@
+.canvas {
+    width: 40em;
+}
+
+.cell {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    border: solid 1px black;
+}
+
+.brush {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    border-radius: 100%;
+}
